@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rhexe
 - 👀 I’m a lua programmer 
 - 🌱 I’m currently learning cpp and lua
-- 💞️ my best friend is MT
+- 💞️ my best friend is (no one)   know that I'm alone
 - 📫 you can call me on: roham1387.323@gmail.com 
 
 <!---
